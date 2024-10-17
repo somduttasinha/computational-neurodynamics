@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+bin/
+etc/
+lib/
+pyvenv.cfg
+share/
+.DS_STORE
